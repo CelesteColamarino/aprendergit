@@ -1,2 +1,1 @@
-# aprendergit
-Repositorio para aprender a usar git 
+Soy un titulo de ejemplo
